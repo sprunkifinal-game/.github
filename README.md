@@ -1,1 +1,2 @@
-# .github
+## Introduction
+Sprunki Final is an engaging and dynamic action-adventure game that combines stunning visuals, a compelling storyline, and immersive gameplay. Designed to captivate players with its unique mechanics and world-building, Sprunki Final appeals to both casual gamers and hardcore enthusiasts. The game offers a blend of strategy, combat, and exploration, ensuring every moment is packed with excitement.
